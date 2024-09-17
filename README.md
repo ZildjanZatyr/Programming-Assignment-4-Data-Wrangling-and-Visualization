@@ -100,7 +100,7 @@ Thank you for exploring this GitHub repository dedicated to Python Data Wranglin
 ## 🔑 Version History
 - 1.01
   - REAADME file was completed
-  - ```.ipnyb``` file was added
+  - ```.ipynb``` file was added
 - 1.00
   - This repository was established
   - README.md was created
